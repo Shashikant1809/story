@@ -1,0 +1,9 @@
+Open git Bash
+Set an Email address in Git
+$ git config --global user.email "your Email Address"
+Set a username in Git
+$ git config --global user.name "user name of your GitHub"
+
+
+
+this is chapter number 3 

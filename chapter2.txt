@@ -1,9 +1,3 @@
- i am bhoot bhai hehehhee
-
-
-problem in git Bash related with username and email address
-
-
 Open git Bash
 Set an Email address in Git
 $ git config --global user.email "your Email Address"
