@@ -1,0 +1,13 @@
+[1mdiff --git a/chapter3.txt b/chapter3.txt[m
+[1mindex 71df8b6..41c5850 100644[m
+[1m--- a/chapter3.txt[m
+[1m+++ b/chapter3.txt[m
+[36m@@ -6,4 +6,5 @@[m [m$ git config --global user.name "user name of your GitHub"[m
+ [m
+ [m
+ [m
+[31m-this is chapter number 3 [m
+\ No newline at end of file[m
+[32m+[m[32mmoye moye krne ja rha hu file ka mai huihujhu[m
+[32m+[m[32mjednjffafaijdfjkaddkjjkdfbdjfbfbeifeifjidjkbdkjdfbkjefbeijfj[m
+\ No newline at end of file[m
